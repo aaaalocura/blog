@@ -1,0 +1,23 @@
+
+
+.t {
+    text-align: center;
+
+    color: #273582;
+
+}
+body{
+
+font-family: Montserrat, sans-serif;
+}
+.contenedor {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+   
+    background-color: rgb(82, 82, 165);
+    border-radius: 50%;
+    z-index: -1;
+  }
+  

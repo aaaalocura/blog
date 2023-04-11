@@ -1,0 +1,36 @@
+.bb {
+
+    font-family: Montserrat, sans-serif;
+}
+
+.t {
+    text-align: center;
+
+    color: #273582;
+
+}
+
+.izq {
+    float: left;
+    width: 50%;
+    margin-bottom: 20px;
+    background-color:lightblue;
+    border-radius: 5px;
+    padding: auto;
+}
+
+.der {
+    float: right;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.espacio {
+    clear: both;
+}
+
+.ex {
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
